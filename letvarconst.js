@@ -14,3 +14,4 @@ prefer not to ue var
 bcz of issuse in block scope and functional scope
 */
 console.table([accountId,accountemail,accountpass,accountcity,accountstate])
+// test the value
