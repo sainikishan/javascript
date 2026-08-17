@@ -13,3 +13,4 @@ let isloggedIn=false
 //undefined => empty value represent
 
 console.log(typeof "hitesh");
+console.log(typeof null);
