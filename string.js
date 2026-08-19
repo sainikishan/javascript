@@ -13,3 +13,7 @@ console.log(gamename.toUpperCase())
 console.log(gamename.toLowerCase())
 console.log(gamename.charAt(3))
 console.log(gamename.indexOf('n'))
+
+
+const newString=gamename.substring(0,6)
+console.log(newString)
