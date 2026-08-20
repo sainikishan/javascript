@@ -13,3 +13,9 @@ let timestamp = Date.now()
 console.log(timestamp); 
 console.log(Date.now()/1000);
 console.log(Math.floor(Date.now()/1000));
+
+
+let newDate= new Date()
+console.log(newDate)
+console.log(newDate.getUTCDate())
+console.log(newDate.getUTCDay())
