@@ -9,3 +9,7 @@ console.log(mycreated.toLocaleString());
 let date= new Date("2023-01-14")
 console.log(date.toLocaleString());
 //timestamp
+let timestamp = Date.now()
+console.log(timestamp); 
+console.log(Date.now()/1000);
+console.log(Math.floor(Date.now()/1000));
